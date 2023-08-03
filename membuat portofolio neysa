@@ -72,11 +72,11 @@
   </nav>
   <section>
     <h2>Welcome to my Portfolio!</h2>
-    <p>Hi there! I'm Abiezz, a web developer passionate about creating amazing websites.</p>
+    <p>Hi there! I'm Neysa, a web developer passionate about creating amazing websites.</p>
   </section>
   <section class="projects">
-    <div cl  ass="project-card">
-      <h3 class="neysa">Project 1</h3>
+    <div class="project-card">
+      <h3 class="project-title">Project 1</h3>
       <p class="project-description">This is a description of project 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
     </div>
     <div class="project-card">
@@ -90,8 +90,8 @@
   </section>
   <section class="contact-info">
     <h2>Contact Me</h2>
-    <p>Email: abiezz@example.com</p>
-    <p>Phone: +1234567890</p>
+    <p>Email: neysaanindya07@gmail.com</p>
+    <p>Phone: 085327181535</p>
   </section>
 </body>
 </html>
